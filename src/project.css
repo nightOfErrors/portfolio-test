@@ -1,0 +1,41 @@
+#projectContainer {
+  margin-left: 20px;
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  opacity: 0.75;
+  border: none;
+  box-shadow: 0px 0px 14px 5px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 0px 14px 5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 14px 5px rgba(0, 0, 0, 0.75);
+}
+
+#projectContainer:hover {
+  margin-left: 20px;
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  opacity: 1;
+  border: none;
+  box-shadow: 0px 0px 14px 5px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 0px 14px 5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 14px 5px rgba(0, 0, 0, 0.75);
+}
+
+#projectText {
+  color: white;
+  position: absolute;
+}
+
+#showProject {
+  width: 85%;
+  height: 70vh;
+  margin-top: 100px;
+  border: 2px solid black;
+  background-color: white;
+  /* border-radius: 10px; */
+  box-shadow: 0px -167px 51px -8px rgba(0,0,0,0.75) inset;
+  -webkit-box-shadow: 0px -167px 51px -8px rgba(0,0,0,0.75) inset;
+  -moz-box-shadow: 0px -167px 51px -8px rgba(0,0,0,0.75) inset; 
+  background-size: cover;
+}

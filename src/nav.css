@@ -1,0 +1,23 @@
+#nav {
+  left: 0px;
+  width: 45px;
+  height: 100vh;
+  background-color: #282828; 
+  border-radius: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 5px;
+  box-shadow: 6px 0px 20px 4px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 6px 0px 20px 4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 6px 0px 20px 4px rgba(0, 0, 0, 0.75);
+}
+/* #212529 */
+
+.navButton{
+  color: white;
+}
+
+.navButton:hover{
+  color: #FED75A;
+}

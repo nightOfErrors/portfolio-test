@@ -1,0 +1,36 @@
+#homeContainer{
+    display: flex;
+    width: '100vw';
+    background: linear-gradient(90deg, white 50.25%, black 50.25%);
+}
+
+/* #aboutContainer{
+    margin-top: 100px;
+    width: 85%;
+    height:48%;
+    overflow: hidden;
+} */
+
+#readMoreButton{
+    margin-top: 50px;
+    width: 120px;
+    height: 40px;
+    font-family: initial;
+    background-color: white;
+    color: #4CBB17;
+    border: 3px solid #4CBB17;
+    font-size: medium;
+    outline: none;
+}
+
+#readMoreButton:hover{
+    margin-top: 50px;
+    width: 120px;
+    height: 40px;
+    font-family: initial;
+    background-color: #4CBB17;
+    color: white;
+    border: 3px solid #4CBB17;
+    font-size: medium;
+    outline: none;
+}
